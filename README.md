@@ -1,0 +1,2 @@
+# Lyric-Based-Music-Recommendation-System-Analyzing-Decades-of-Top-Billboard-Songs
+This project develops a recommendation system that suggests songs based on lyrical content. Using the top 100 songs from each year between 1959 and 2023, we employ TF-IDF vectorization and cosine similarity to analyze and compare lyrics. A user-friendly Streamlit app allows users to input a song and receive personalized recommendations. 
